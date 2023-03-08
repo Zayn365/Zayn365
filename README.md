@@ -19,6 +19,7 @@ I'm a Web Developer with experience in React and PHP (Laravel) technologies. I h
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - ![Redux](https://img.shields.io/badge/Redux-7D2DA1?style=for-the-badge&logo=redux&logoColor=white)
+- ![Netlify](https://img.shields.io/badge/Netlify-87CEEB.svg?style=for-the-badge&logo=netlify&logoColor=white)
 - ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
