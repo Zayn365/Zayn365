@@ -3,7 +3,7 @@
 I'm a Web Developer with experience in React and PHP (Laravel) technologies. I have a passion for coding and enjoy building creative, responsive and user-friendly web applications.
 
 ## ⚡️💥🔥 Status 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayn365&include_all_commits=true&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zayn365&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayn365&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zayn365&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Skills
