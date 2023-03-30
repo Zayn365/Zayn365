@@ -1,4 +1,4 @@
-# Hi there, I'm Zayn365 👋
+# Hi there, I'm Zayn Saeed 👋
 
 I'm a Web Developer with experience in React and PHP (Laravel) technologies. I have a passion for coding and enjoy building creative, responsive and user-friendly web applications.
 
