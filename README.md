@@ -2,10 +2,6 @@
 
 I'm a Web Developer with experience in MERN,React and PHP (Laravel) technologies. I have a passion for coding and enjoy building creative, responsive and user-friendly web applications.
 
-## ⚡️💥🔥 Status 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayn365&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zayn365&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🚀 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,javascript,mysql,react,redux,tailwind,bootstrap,postman,netlify,stackoverflow)](https://skillicons.dev)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
