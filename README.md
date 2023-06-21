@@ -8,7 +8,7 @@ I'm a Web Developer with experience in MERN,React and PHP (Laravel) technologies
 
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,javascript,mysql,react,redux,tailwind,bootstrap,postman,netlify,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,javascript,mysql,react,redux,tailwind,bootstrap,postman,netlify,stackoverflow,nodejs,mongodb,expressjs)](https://skillicons.dev)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -24,6 +24,9 @@ I'm a Web Developer with experience in MERN,React and PHP (Laravel) technologies
 - ![Netlify](https://img.shields.io/badge/Netlify-87CEEB.svg?style=for-the-badge&logo=netlify&logoColor=white)
 - ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## 📚 Education
 
