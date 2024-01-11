@@ -47,7 +47,6 @@ Here are some of my recent projects:
 Feel free to reach out to me at [email address](zaynsaeed365@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zain-saeed-420a0a221).
 
 ## 🤝 Let's Connect
-- [Website](https://zaynsaeed.netlify.app/)
 - [GitHub](https://github.com/Zayn365) 
 - [LinkedIn](https://www.linkedin.com/in/zain-saeed-420a0a221) 
 - [Instagram](https://www.instagram.com/zaynsaeed45/)
