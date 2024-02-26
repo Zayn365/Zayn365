@@ -8,7 +8,7 @@ I'm a Web Developer with experience in MERN,React and PHP (Laravel) technologies
 
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,mysql,react,redux,tailwind,bootstrap,postman,netlify,stackoverflow,nodejs,mongodb,expressjs)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,mysql,aws,vercel,nextjs,react,redux,ts,tailwind,bootstrap,postman,netlify,stackoverflow,nodejs,postgresql,mongodb,expressjs,wordpress,laravel,materialui,firebase,codepen,linkedin,nginx)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -26,7 +26,16 @@ I'm a Web Developer with experience in MERN,React and PHP (Laravel) technologies
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=node.js&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-08658c?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- ![NextJs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- ![Larvel](https://img.shields.io/badge/Larvel-6c261f?style=for-the-badge&logo=laravel&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-e69138?style=for-the-badge&logo=amazon&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/Wordpress-9fc5e8?style=for-the-badge&logo=wordpress&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-f1c232?style=for-the-badge&logo=firebase&logoColor=white)
+- ![Codepen](https://img.shields.io/badge/Codepen-444444?style=for-the-badge&logo=codepen&logoColor=white)
+- ![Material Ui](https://img.shields.io/badge/MaterialUi-073763?style=for-the-badge&logo=materialui&logoColor=white)
 
 ## 📚 Education
 
